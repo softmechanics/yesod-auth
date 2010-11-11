@@ -7,7 +7,8 @@ module Yesod.Helpers.Auth
     ( -- * Subsite
       Auth
     , AuthPlugin (..)
-    , AuthRoute (..)
+    , AuthRoute
+    , Route (..)
     , getAuth
     , YesodAuth (..)
       -- * Plugin interface
